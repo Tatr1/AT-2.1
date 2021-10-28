@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestV2" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-28T23:36:10" hostname="DESKTOP-HNOC113" time="0.075">
+<testsuite name="ru.netology.rest.MobileBankApiTestV2" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-28T23:38:10" hostname="DESKTOP-HNOC113" time="0.121">
   <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV2" time="0.075"/>
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV2" time="0.121"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
